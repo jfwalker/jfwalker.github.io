@@ -25,3 +25,6 @@ markdown: kramdown
 #
 JB :
   version : 0.3.0
+
+header_pages:
+  -introduction.md
