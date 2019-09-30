@@ -8,15 +8,15 @@ permalink: /research/
 
 I am a botanist and a computational molecular evolutionary biologists, who seeks to understand the patterns seen in next generation sequencing data, by using techniques developed in the field of developmental biology. To be a bit more specific, I develop computational tools, typically for using large scale phylogenetic datasets, that can be used to find patterns in the data. This can be a gene whose evolutionary history conflicts with the species tree or which appears disproportionately influential in an analysis. Prior to my postdoctoral work my research products would usually end with quantifying these patterns and looking for correlations with other signal in the data. In my postdoctoral research I am using the genes identified as a basis for future work, where I apply tools that are typical of developmental biology (eg. CRISPR) and work to see he influence the genes have in vivo. I've broken my research into more specifics below.
 
-### Postdoctoral Research
+***Postdoctoral Research***
 
 Phylogenetics, microscopy and comparative methods
 
 Next generation sequencing methods development
 
-Transformations
+**Transformations**
 
-[Data Analysis](https://jfwalker.github.io/research/Postdoc_data_analysis/)
+**[Data Analysis]**(https://jfwalker.github.io/research/Postdoc_data_analysis/)
 
 
 
