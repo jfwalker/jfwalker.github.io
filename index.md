@@ -8,7 +8,7 @@ layout: home
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="https://github.com/jfwalker">github</a></li>
+          <li><a href="https://github.com/jfwalker">Github</a></li>
           <li><a href="https://scholar.google.com/citations?user=hSrEx9oAAAAJ&hl=en&oi=ao">Google Scholar</a></li>
           <li><a href="https://www.researchgate.net/profile/Joseph_Walker22">ResearchGate</a></li>
       </ul>
