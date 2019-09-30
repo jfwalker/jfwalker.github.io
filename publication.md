@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-## Overview
+### Overview
 For a complete chronological ordering of my publications please see my google scholar profile [here](https://scholar.google.com/citations?user=hSrEx9oAAAAJ&hl=en)
 
 On this page I have listed papers based on when I worked on them/career stage. Even though it is not the order they came out in, they are listed in the time period the work was being conducted.
