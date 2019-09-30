@@ -31,7 +31,7 @@ SA Smith and **JF Walker**. [PyPHLAWD: A python package for phylogenetic dataset
 
 N Wang, Y Yang, MJ Moore, SF Brockington, **JF Walker**, JW Brown, T Feng, A Timoneda, C Edwards, L Majure, R Puente, U Eggli, B Liang and SA Smith. [Evolution of Portulacineae marked by adaptation to harsh environments, gene tree conflict, and gene family expansion](https://academic.oup.com/mbe/article/36/1/112/5146340) (2019). Molecular Biology and Evolution. 
 
-**JF Walker**, JW Brown and SA Smith. [Analyzing contentious relationships and outlier genes in phylogenomics](https://oxfordjournals.altmetric.com/details/43490182) (2018). Systematic Biology, 67:5. 
+**JF Walker**, JW Brown and SA Smith. [Analyzing contentious relationships and outlier genes in phylogenomics](https://academic.oup.com/sysbio/article/67/5/916/5034973) (2018). Systematic Biology, 67:5. 
 
 SA Smith, JW Brown\* and **JF Walker\***. [So many genes, so little time: A practical approach to divergence time estimation in the genomic era](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197433) (2018). Plos One, 13:5. 
 
