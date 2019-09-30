@@ -4,3 +4,11 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="https://github.com/jfwalker">github</a></li>
+      </ul>
+  </div>
+</div>
