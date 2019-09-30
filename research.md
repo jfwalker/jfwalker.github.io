@@ -10,12 +10,13 @@ I am a botanist and a computational molecular evolutionary biologists, who seeks
 
 ### Postdoctoral Research
 
-Data analysis
-
-Microscopy and comparative methods
+Phylogenetics, microscopy and comparative methods
 
 Next generation sequencing methods development
 
+Transformations
+
+[Data Analysis](https://github.com/jfwalker/jfwalker.github.io/research/Postdoc_data_analysis/)
 
 
 
