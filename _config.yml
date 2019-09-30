@@ -12,5 +12,7 @@ plugins:
 header_pages:
   - introduction.md
   - research.md
+  - teaching.md
+  - outreach.md
   - publication.md
 
