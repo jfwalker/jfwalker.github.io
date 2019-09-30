@@ -51,7 +51,7 @@ Y Yang, MJ Moore, SF Brockington, A Timoneda, T Feng, H Marx, **JF Walker** and 
 
 ### Bioinformatics core Publications (May 2013 - Aug. 2014)
 
-T Casey, JF Walker, K Bhide, J Thimmapuram and J Schoonmaker. [Global transcriptome difference in myokine and inflammatory genes in muscle of mature steer progeny is related to maternal lactation diet and muscle composition](https://www.physiology.org/doi/full/10.1152/physiolgenomics.00060.2018) (2018). Physiological Genomics.
+T Casey, **JF Walker**, K Bhide, J Thimmapuram and J Schoonmaker. [Global transcriptome difference in myokine and inflammatory genes in muscle of mature steer progeny is related to maternal lactation diet and muscle composition](https://www.physiology.org/doi/full/10.1152/physiolgenomics.00060.2018) (2018). Physiological Genomics.
 
 ### Master's Publications (May 2012 - Aug. 2014)
 
@@ -63,5 +63,5 @@ S Tittes, **JF Walker**, L Torres-Martinez and N Emery. [Grow where you thrive o
 
 ### Undergraduate Publications (Aug. 2008 - May 2012)
 
-AM Stoehr, JF Walker and A Monteiro (2013). [Spalt expression and the development of melanic color patterns in pierid butterflies](https://evodevojournal.biomedcentral.com/articles/10.1186/2041-9139-4-6). EvoDevo, 4:6. 
+AM Stoehr, **JF Walker** and A Monteiro (2013). [Spalt expression and the development of melanic color patterns in pierid butterflies](https://evodevojournal.biomedcentral.com/articles/10.1186/2041-9139-4-6). EvoDevo, 4:6. 
 
