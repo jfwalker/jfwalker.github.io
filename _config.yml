@@ -2,7 +2,7 @@
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title
 
-exclude: ["README.md", "Gemfile", "Gemfile.lock"]
+#exclude: ["README.md", "Gemfile", "Gemfile.lock"]
 highlighter: rouge
 
 # Themes are encouraged to use these universal variables
