@@ -16,7 +16,7 @@ Next generation sequencing methods development
 
 **Transformations**
 
-**[Data Analysis]**(https://jfwalker.github.io/research/Postdoc_data_analysis/)
+[**Data Analysis**](https://jfwalker.github.io/research/Postdoc_data_analysis/)
 
 
 
