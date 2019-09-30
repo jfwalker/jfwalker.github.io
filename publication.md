@@ -46,15 +46,21 @@ SA Smith, JW Brown, Y Yang, R Bruenn, CP Drummond, SF Brockington, **JF Walker**
 
 JW Brown\*, **JF Walker\*** and SA Smith (2017). [Phyx: Phylogenetic tools for Unix](https://academic.oup.com/bioinformatics/article/33/12/1886/2975328). Bioinformatics, 33:12. 
 
+Y Yang, MJ Moore, SF Brockington, A Timoneda, T Feng, H Marx, **JF Walker** and SA Smith (2017). [An efficient field and laboratory workflow for plant phylotranscriptomic projects](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.3732/apps.1600128). Applications in Plant Sciences, 5:3. 
+
 ### Bioinformatics core Publications
 
-Global transcriptional differences in myokine and inflammatory genes in muscle of mature steer progeny are related to maternal lactation diet and muscle composition
+T Casey, JF Walker, K Bhide, J Thimmapuram and J Schoonmaker. [Global transcriptome difference in myokine and inflammatory genes in muscle of mature steer progeny is related to maternal lactation diet and muscle composition](https://www.physiology.org/doi/full/10.1152/physiolgenomics.00060.2018) (2018). Physiological Genomics.
 
 ### Master's Publications
 
 S Tittes, **JF Walker**, L Torres-Martinez and N Emery. [Grow where you thrive or where only you can survive? A Bayesian analysis of tolerance curve evolution in a clade with diverse habitat affinities](https://www.journals.uchicago.edu/doi/abs/10.1086/701827) (2019). American Naturalist. 
 
+**JF Walker**, RK Jansen, MJ Zanis and NC Emery (2015). [Sources of inversion variation in the small single copy (SSC) region of chloroplast genomes](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.3732/ajb.1500299). American Journal of Botany, 102:11. 
+
+**JF Walker**, MJ Zanis and NC Emery (2014). [Comparative analysis of Complete Chloroplast Genome Sequence and Inversion Variation in Lasthenia Burkei (Madieae, Asteraceae)](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.3732/ajb.1400049). American Journal of Botany, 101:4. 
+
 ### Undergraduate Publications
 
-
+AM Stoehr, JF Walker and A Monteiro (2013). [Spalt expression and the development of melanic color patterns in pierid butterflies](https://evodevojournal.biomedcentral.com/articles/10.1186/2041-9139-4-6). EvoDevo, 4:6. 
 
