@@ -12,4 +12,5 @@ plugins:
 header_pages:
   - introduction.md
   - research.md
+  -publication.md
 
