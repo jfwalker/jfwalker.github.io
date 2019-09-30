@@ -6,4 +6,4 @@ permalink: /research/Phylo/
 
 ### Phylo
 
-![Hibiscus Phylogeny](https://jfwalker.github.io/_Pictures/Densitree.png)
+![Hibiscus Phylogeny](https://jfwalker.github.io/Pictures/Densitree.png)
