@@ -22,11 +22,11 @@ Putting the final touches on a couple in prep, hopefully coming soon!
 
 ### PhD Publications (Aug. 2014 - Aug. 2018)
 
-SA Smith, N Walker-Hale, **JF Walker** and JW Brown. Nested phylogenetic conflicts, combinability, and deep phylogenomics in plants.
+SA Smith, N Walker-Hale, **JF Walker** and JW Brown. [Nested phylogenetic conflicts, combinability, and deep phylogenomics in plants](https://www.biorxiv.org/content/10.1101/371930v2.abstract).
 
-**\*JF Walker**, \*_N Walker-Hale_, DA Larson, OM Vargas and GW Stull. Characterizing gene tree conflict and systematic error in plastome-inferred phylogenies. PeerJ. 
+**\*JF Walker**, \*_N Walker-Hale_, DA Larson, OM Vargas and GW Stull. [Characterizing gene tree conflict and systematic error in plastome-inferred phylogenies](https://peerj.com/articles/7747/). PeerJ. 
 
-SA Smith and **JF Walker**. PyPHLAWD: A python package for phylogenetic dataset construction (2019). Methods in Ecology and Evolution.
+SA Smith and **JF Walker**. [PyPHLAWD: A python package for phylogenetic dataset construction](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13096) (2019). Methods in Ecology and Evolution.
 
 
 ### Bioinformatics core Publications
