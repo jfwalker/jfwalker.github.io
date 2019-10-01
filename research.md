@@ -10,7 +10,7 @@ I am a botanist and a computational molecular evolutionary biologists, who seeks
 
 **Research**
 
-- [Data Analysis and Plant Biology](https://jfwalker.github.io/research/PlantBio/)
+- [Plant Biology and Data Analysis](https://jfwalker.github.io/research/PlantBio/)
 
 - [Programming](https://jfwalker.github.io/research/Postdoc_data_analysis/)
 
