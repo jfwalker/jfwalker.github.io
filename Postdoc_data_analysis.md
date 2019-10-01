@@ -4,10 +4,17 @@ title: Programming
 permalink: /research/Postdoc_data_analysis/
 ---
 
-### Progamming
+## Progamming
 
 I see programming as describing a wide variety of pursuits, and as such I like to switch between languages quite a bit. In my research I have used short small scripts to speed up repetitive tasks, typically I focus on using perl, python and rarely ruby. I also sometimes develop or help develop more complex and structured programs, an example of this would be [phyx](https://github.com/FePhyFoFum/phyx), and for phyx I used C++ because even though the compiler has the least helpful errors of all time, many of the programs in phyx are things I use on a weekly basis. Finally, I tend to use languages such as R for statistics and making figures. Whenever, I'm mentoring someone who has shown interest in programming I make sure they know there is more than one language and more than one purpose. Programming isn't just an intimidating world of complex algorithms, sometimes it can be used for trivial tasks that make life easier.
 
+### Current Projects
+
+[**PHylogenetic Analysis Into Lineages**]
+
+[**Branch Estimation Synthesizer**]
+
+### Past projects
 Some examples of work where a heavy focus has been on the program are:
 
 [**phyx: phylogenetic tools for unix**](https://github.com/FePhyFoFum/phyx): This is a set of C++ programs designed to help with a wide variety of tasks in phylogenetics.
