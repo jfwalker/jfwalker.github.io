@@ -7,7 +7,7 @@ permalink: /publications/
 ### Overview
 For a complete chronological ordering of my publications please see my google scholar profile [here](https://scholar.google.com/citations?user=hSrEx9oAAAAJ&hl=en)
 
-On this page I have listed papers based on when I worked on them/career stage. Even though it is not the order they came out in, they are listed in the time period the work was being conducted.
+On this page I have listed papers based on when I worked on them/career stage, so they are not necessarily chronological.
 
 _Italics_ denotes a mentored undergraduate.
 
@@ -15,15 +15,15 @@ _Italics_ denotes a mentored undergraduate.
 
 ### Cambridge Postdoctoral Publications (Nov. 2018 - Present)
 
-Have one I'm finishing doing the edits for, stay tuned!
+Have one I'm finishing the edits for regarding data analysis and gene tree conflict, stay tuned!
 
 ### Michigan Postdoctoral Publications (Aug. 2018 - Nov. 2018)
 
-Putting the final touches on a couple in prep, hopefully coming soon!
+Putting the final touches on a couple in prep, some Ericales work, edge-based analyses, and work on within gene conflict. Coming soon!
 
 ### PhD Publications (Aug. 2014 - Aug. 2018)
 
-SA Smith, N Walker-Hale, **JF Walker** and JW Brown. [Nested phylogenetic conflicts, combinability, and deep phylogenomics in plants](https://www.biorxiv.org/content/10.1101/371930v2.abstract).
+SA Smith, _N Walker-Hale_, **JF Walker** and JW Brown. [Nested phylogenetic conflicts, combinability, and deep phylogenomics in plants](https://www.biorxiv.org/content/10.1101/371930v2.abstract).
 
 **JF Walker\***, _N Walker-Hale\*_, DA Larson, OM Vargas and GW Stull. [Characterizing gene tree conflict and systematic error in plastome-inferred phylogenies](https://peerj.com/articles/7747/). PeerJ. 
 
@@ -35,11 +35,11 @@ N Wang, Y Yang, MJ Moore, SF Brockington, **JF Walker**, JW Brown, T Feng, A Tim
 
 SA Smith, JW Brown\* and **JF Walker\***. [So many genes, so little time: A practical approach to divergence time estimation in the genomic era](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197433) (2018). Plos One, 13:5. 
 
-**JF Walker**, Y Yang, T Feng, A Timoneda, J Mikenas, V Hutchison, C Edwards, N Wang, S Ahluwalia, J Olivieri, N Walker-Hale, LC Majure, R Puente, G Kadereit, M Lauterbach, U Eggli, H Flores-Olvera, H Ochoterena, SF Brockington, MJ Moore and SA Smith. [From cacti to carnivores: Improved phylotranscriptomic sampling and hierarchical homology inference provides further insight to the evolution of Caryophyllales](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/ajb2.1069) (2018). American Journal of Botany, 105:3. 
+**JF Walker**, Y Yang, T Feng, A Timoneda, J Mikenas, V Hutchison, C Edwards, N Wang, _S Ahluwalia_, _J Olivieri_, _N Walker-Hale_, LC Majure, R Puente, G Kadereit, M Lauterbach, U Eggli, H Flores-Olvera, H Ochoterena, SF Brockington, MJ Moore and SA Smith. [From cacti to carnivores: Improved phylotranscriptomic sampling and hierarchical homology inference provides further insight to the evolution of Caryophyllales](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/ajb2.1069) (2018). American Journal of Botany, 105:3. 
 
 JB Pease, JW Brown, **JF Walker**, CE Hinchliff and SA Smith. [Quartet sampling distinguishes lack of support from conflicting support in plant tree of life](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/ajb2.1016) (2018). American Journal of Botany, 105:3. 
 
-Y Yang, MJ Moore, SF Brockington, J Mikenas, J Olivieri, **JF Walker** and SA Smith. [Improved transcriptome sampling pinpoints 26 paleopolyploidy events in Caryophyllales, including two paleo-allopolyploidy events](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14812) (2018). New Phytologist, 217:2. 
+Y Yang, MJ Moore, SF Brockington, J Mikenas, _J Olivieri_, **JF Walker** and SA Smith. [Improved transcriptome sampling pinpoints 26 paleopolyploidy events in Caryophyllales, including two paleo-allopolyploidy events](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14812) (2018). New Phytologist, 217:2. 
 
 SA Smith, JW Brown, Y Yang, R Bruenn, CP Drummond, SF Brockington, **JF Walker**, N Last, NA Douglas and MJ Moore. [Disparity, Diversity, and Duplications in the Caryophyllales](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14772) (2018). New Phytologist, 217:2. 
 
