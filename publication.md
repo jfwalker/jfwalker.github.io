@@ -23,7 +23,7 @@ Putting the final touches on a couple in prep, some Ericales work, edge-based an
 
 ### PhD Publications (Aug. 2014 - Aug. 2018)
 
-SA Smith, _N Walker-Hale_, **JF Walker** and JW Brown. [Nested phylogenetic conflicts, combinability, and deep phylogenomics in plants](https://www.biorxiv.org/content/10.1101/371930v2.abstract) In press. Systematic Biology.
+SA Smith, _N Walker-Hale_, **JF Walker** and JW Brown. [Nested phylogenetic conflicts, combinability, and deep phylogenomics in plants](https://www.biorxiv.org/content/10.1101/371930v2.abstract). In press. Systematic Biology.
 
 **JF Walker\***, _N Walker-Hale\*_, DA Larson, OM Vargas and GW Stull. [Characterizing gene tree conflict and systematic error in plastome-inferred phylogenies](https://peerj.com/articles/7747/) (2019). PeerJ. 
 
