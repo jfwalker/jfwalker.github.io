@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Phylogenetics, microscopy, and comparative methods (Postdoctoral work)
+title: Phylogenetics (Postdoctoral work)
 permalink: /research/Phylo/
 ---
 
@@ -32,6 +32,17 @@ Other projects that I have been involved in have found some other interesting ev
 
 Some other projects I have been involved in have contributed to the body of literature in Caryophyllales by showing the Order as a whole has a propensity for [genome duplications](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14812), these duplications are correlated with [rate shifts and moving to new enviornments](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14772), and the family Portulacineae (containing Cacti and relatives) have some potentially important [gene family duplications with respect to C4 and CAM photosynthesis](https://academic.oup.com/mbe/article/36/1/112/5146340).
 
+
+### Chloroplast phylogenetics
+
+The chloroplast is one of the best studied genomes on earth, and also contains _matK_ a gene that the majority of our knowledge of the plant tree of life is based off of. One thing that has not been as heavily studied is the amount of conflict that underlies the chloroplast dataset. Although, this conflict between the chloroplast genes and the genome may be the result of the methods and not biological it is still important to factor into our analyses, especially as chloroplasts are easy to obtain with next generation sequencing. [In a paper](https://peerj.com/articles/7747/) I co-authored with Nat Walker-Hale, an undergraduate I mentored, we explored the extent to which the genes in the chloroplast conflict with our knowledge of relationships based on the whole chloroplast and based on nuclear data. I did some [previous work](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.3732/ajb.1400049) on examining the relationships of the major sections in Asteraceae during my Master's thesis and wrote a paper detailing one of the [most common misconceptions](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.3732/ajb.1500299) about chloroplast genomes (the different orientations of the SSC are not an evolutionary even).
+
+
+![chloroplastconflict](https://jfwalker.github.io/Pictures/Gene-tree-concordance-conflict-at-varying-time-scales-Each-diagram-represents-a.png)
+**I wish I could take credit for this image but it was all Nat and is one of my favorite figures from any paper I've been on. The circle diagrams are the chloroplast genomes, ordered by gene length, colored by amount of gene tree conflict, and broken into separate time scales. Below the circle diagrams are the correlates of the conflict.**
+
+
+### Phylogenetics of _Lasthenia_
 
 
 
