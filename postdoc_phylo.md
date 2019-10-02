@@ -16,4 +16,4 @@ Although _Hibiscus trionum_ remains an exemplar system for studying [bullseye pa
 
 **Phylogenomics of Caryophyllales**
 
-![NonCoreCary](https://jfwalker.github.io/Pictures/Fig4_11-30.pdf)
+![NonCoreCary](https://jfwalker.github.io/Pictures/Fig4_11-30.png)
