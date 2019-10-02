@@ -12,3 +12,8 @@ Although _Hibiscus trionum_ remains an exemplar system for studying [bullseye pa
 
 ![Species Tree](https://jfwalker.github.io/Pictures/Densitree.png)
 **A species tree and depiction of gene tree conflict across the Trionum clade of _Hibiscus_. The species tree is depicted in purple and the gene trees are depicted as a cloudogram in white. This figure was generated using [densitree](https://www.cs.auckland.ac.nz/~remco/DensiTree/).**
+
+
+**Phylogenomics of Caryophyllales**
+
+![NonCoreCary](https://jfwalker.github.io/Pictures/Fig4_11-30.pdf)
