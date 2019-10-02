@@ -16,4 +16,9 @@ Although _Hibiscus trionum_ remains an exemplar system for studying [bullseye pa
 
 **Phylogenomics of Caryophyllales**
 
-![NonCoreCary](https://jfwalker.github.io/Pictures/Fig4_11-30.png)
+I've been involved in a number of papers that focus on the order Caryophyllales. This is an order of plants with particularly fascinating histories. To start from a morphological standpoint they are hyperdiverse, below is a picture of the non-core Caryophyllales which contains the carnivorous plants, however, the Caryophyllales as a whole also contains Cacti. Part of my thesis involved figuring out the relationships among the families within the order. This was the From [Cacti to Carnivores paper](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/ajb2.1069) in the AJB Tree of Life issue, and with the widespread phylogenetically diverse sampling and massive amounts of lab work that had to be done, this represented a huge collaborative effort, with many PI's, postdocs, graduate students, and undergraduates coming together to make this possible.
+
+
+
+![NonCoreCary](https://jfwalker.github.io/Pictures/Fig4_11-30.png "This picture is from the Cacti to Carnivores paper")
+
