@@ -30,4 +30,8 @@ Other projects that I have been involved in have found some other interesting ev
 **This is the depiction of the non-core Caryophyllales relationships from the first chapter of my PhD. Gene tree conflict is again depicted on pie charts, major evolutionary changes are shown on the branches they inferred to have occured, the numbers on the branches are the predicted number of gene duplications to have occured on the branch, and the circles represent the inferred genome duplications**
 
 
+Some other projects I have been involved in have contributed to the body of literature in Caryophyllales by showing the Order as a whole has a propensity for [genome duplications](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14812), these duplications are correlated with [rate shifts and moving to new enviornments](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14772), and the family Portulacineae (containing Cacti and relatives) have some potentially important [gene family duplications with respect to C4 and CAM photosynthesis](https://academic.oup.com/mbe/article/36/1/112/5146340).
+
+
+
 
