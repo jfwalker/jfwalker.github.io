@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Phylogenetics (Postdoctoral work)
+title: Phylogenetics
 permalink: /research/Phylo/
 ---
 
