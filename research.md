@@ -14,7 +14,9 @@ I am a botanist and a computational molecular evolutionary biologists, who seeks
 
 - [Programming](https://jfwalker.github.io/research/Postdoc_data_analysis/)
 
-- [Phylogenetics, microscopy and comparative methods](https://jfwalker.github.io/research/Phylo/)
+- [Phylogenetics](https://jfwalker.github.io/research/Phylo/)
+
+-[microscopy and comparative methods](https://jfwalker.github.io/research/micro_and_methods/)
 
 - [Next generation sequencing methods development](https://jfwalker.github.io/research/Postdoc_Methods/)
 
