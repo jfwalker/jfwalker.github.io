@@ -12,7 +12,7 @@ Teaching is one of the most important aspects of being an academic, this include
 
 **During my PhD at University of Michigan**
 
-_Guest Lecturer_: Phylogenetic methods and theory. 
+_Guest Lecturer_: Phylogenetic methods and theory. This is a graduate level class at Michigan and I gave a guest lecture covering how distance methods work.
 
 _Supervised Teaching_: This is the only non-science class I have taught and it was on pedagogy. At University of Michigan I was a graduate student mentor and as such during this class I helped a group of five graduate students with some techniques on teaching. These were students that either struggled with teaching in the classroom or did not have experience teaching. The graduate students would attend a class I taught to see what techniques worked for me, and I would attend a class they taught to see places where they may need help. I learned a lot about different teaching styles, and found that what students reacted to the most was the comfort level of the instructor. If someone is comfortable giving a lecture or giving a talk then the audience naturally feeds off that comfort, but when someone is uncomfortable then the class becomes a bit uncomfortable. This led to the challenge of figuring out what lecture style allowed each graduate student to be comfortable when they were presenting, which turned out to be different for everyone.
 
