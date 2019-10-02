@@ -20,5 +20,14 @@ I've been involved in a number of papers that focus on the order Caryophyllales.
 
 
 
-![NonCoreCary](https://jfwalker.github.io/Pictures/Fig4_11-30.png "This picture is from the Cacti to Carnivores paper")
+![NonCoreCary](https://jfwalker.github.io/Pictures/Fig4_11-30.png)
+**This depicts the relationships inferred for the non-core Caryophyllales. The branch highlighted in red depicts where there is conflict between the different species tree reconstruction methods. Gene tree conflict is depicted in pie charts**
+
+
+Other projects that I have been involved in have found some other interesting evolutionary patterns among the Caryophyllales. Within the non-core above, the first analysis I conducted in my PhD found the group had a large number of inferred genome duplications. [This paper](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.3732/ajb.1700083) was focused on studying the molecular evolution of the carnvirous plants. From a methodological perspective the paper also illustrates how sensitive a relationship can be to sampling, even when using genome scale data. The picture below depicts the inferred relationships from the first chapter of my PhD.
+
+![FirstChapterNonCore](https://jfwalker.github.io/Pictures/Figure_1.png)
+**This is the depiction of the non-core Caryophyllales relationships from the first chapter of my PhD. Gene tree conflict is again depicted on pie charts, major evolutionary changes are shown on the branches they inferred to have occured, the numbers on the branches are the predicted number of gene duplications to have occured on the branch, and the circles represent the inferred genome duplications**
+
+
 
