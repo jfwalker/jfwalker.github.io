@@ -10,9 +10,9 @@ I see programming as describing a wide variety of pursuits, and as such I like t
 
 ### Current Projects
 
-[**PHylogenetic Analysis Into Lineages**]
+[**PHylogenetic Analysis Into Lineages**](https://github.com/jfwalker/PHAIL): This is a method of pulling the multiple trees out of the data and builds off of the edge based analysis procedures.
 
-[**Branch Estimation Synthesizer**]
+[**Branch Estimation Synthesizer**](https://github.com/jfwalker/BES)
 
 ### Past projects
 Some examples of work where a heavy focus has been on the program are:
