@@ -4,11 +4,11 @@ title: Teaching
 permalink: /teaching/
 ---
 
-### Teaching
+## Teaching
 
 Teaching is one of the most important aspects of being an academic, this includes educating students in the class room, mentoring students, creating workshops for the scientific community, and reaching out to the public through outreach. For more information about outreach please see my page on [outreach](https://jfwalker.github.io/outreach/). In the classroom teaching can have a major influence on a students career decisions, and the same goes for mentoring. The amazing experiences I had in the labs of [Dr. Michael Zanis](https://www.seattleu.edu/scieng/about/faculty-and-staff/), [Dr. Nancy Emery](https://www.colorado.edu/lab/emery/), and visiting [Dr. Antonia Monteiro](http://lepdata.org/monteiro/), are the reason that I pursued a PhD. The classroom is a place where people not only become educated but have their views shaped, and I see it as my responsibility as an educator to make sure students know why we infer patterns from the data and not just what patterns have been seen. A paper that illustrates the importance of understanding the science underlying inference, as opposed to just what is inferred can be found [here](https://www.pnas.org/content/114/36/9587). As influential as any science paper can be, education has as much if not more potential to bring about great change, even if there is not the same quantification of that change.
 
-## Classes I have taught
+### Classes I have taught
 
 **During my PhD at University of Michigan**
 
@@ -29,5 +29,21 @@ _Introduction to Botany_: I taught this class twice and it was very involved. Th
 I'd like to start off bragging about how students I have mentored have gone on to attend prestigious graduate programs such as Michigan, Ohio State, Stanford and Cambridge University, and another is now in her dream job at the NIH. However, if I really reflect the truth is I have been lucky enough to work with a lot of smart and incredible people during my career and owe a lot to the undergraduate students I have mentored. [One chapter](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/ajb2.1069) of my thesis has three undergraduate co-authors on it, Sonia, Julia, and Nat. All of these students worked tirelessly generating data and helping come up with ideas for how to analyze it. During my Master's thesis I was able to simultaneously work in the Purdue Bioinformatics Core because I had Alan helping generate data and run PCR's for hours on end. The truth is, I finished my PhD in four years thanks to the incredible help of the undergraduate students I worked with, and was able to work and finish my Master's in two years thanks to the incredible work of a very gifted undergraduate. 
 
 A big lesson has been that as a mentor it is important to expose students to research, and help them learn why research is important. If I agree to mentor someone, I've agreed to do my best to help them learn about the scientific process, and expose them first hand to seeing it being applied. Not every student I have mentored has gone on to be on a paper, and they have all exhibited highly variable levels of interest in the projects I'm working on. However, I'm always happy to help a student I am mentoring find project that is a better fit, or a research group pursuing a topic they are more interested in. Also, if someone does not see themselves continuing research that is great too, I just want to make sure they are given the opportunity to experience research. Currently, as a postdoc I am still working with great students, mostly graduate students now, and am excited for what is going to come from our collaborations.
+
+### Workshops
+
+Another valuable way to engage with the scientific community is through workshops, and this also provides a way to share cool new methods that have been generated. In my career I have been involved in five different workshops, two of them during my PhD and three were done during my Master's degree.
+
+**During PhD**
+
+A large focus of my PhD was on gene tree conflict and as such I helped instruct the gene tree conflict of a phylogenomics workshop at Botany 2016 in Savannah and Botany 2018 in Rochester. This provided a chance to discuss how conflict is analyzed on a tree.
+
+**During my Master's degree**
+
+While working at the Bioinformatics at Purdue University I was involved in three different in-house workshops. One was on Unix for Biologists, another was on differential gene expression analysis, and the final one was on phylogenomics.
+
+
+
+
 
 
