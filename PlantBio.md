@@ -12,6 +12,7 @@ An overarching theme of my research are the subjects of Plant Biology and Data A
 
 My work in plant biology focuses on everything from studying macro-evolutionary patterns that shape plant distribution across deep time (~450 mya since divergence), to focusing on the specific details with regards to small closely related (~5mya since divergence) clades. I've always had a large focus on non-model species, and have had the opportunity to study exciting plants with fascinating adaptations. These include carnvirous plants, cacti, and plants with adaptations to extreme enviornments. Although, the studies I cover quite a bit of ground, from phylogenomics to microscopy, they do have an underlying them of trying to understand the world of plants.
 
+![Plants](https://github.com/jfwalker/jfwalker.github.io/tree/master/Pictures/plants.png)
 
 **Data Analysis**
 
