@@ -13,6 +13,7 @@ An overarching theme of my research are the subjects of Plant Biology and Data A
 My work in plant biology focuses on everything from studying macro-evolutionary patterns that shape plant distribution across deep time (~450 mya since divergence), to focusing on the specific details with regards to small closely related (~5mya since divergence) clades. I've always had a large focus on non-model species, and have had the opportunity to study exciting plants with fascinating adaptations. These include carnvirous plants, cacti, and plants with adaptations to extreme enviornments. Although, the studies I cover quite a bit of ground, from phylogenomics to microscopy, they do have an underlying them of trying to understand the world of plants.
 
 ![Plants](https://jfwalker.github.io/Pictures/plants.png)
+*The picture on the left is of a flowering venus flytrap. It's quite a something to see because a long shoot appears and keeps the flower far away from the carnivorous parts. The middle is of a golden barrel cactus, this species is of particular interest because it's kept a lot as an ornamental and unfortunately, similar to the venus flytrap, is starting to go extinct in the wild for that very reason. On the far right there is _Lasthenia fremontii_, this lives in vernal pools where once a year they flower and form these cool fields of gold where the water used to be.
 
 **Data Analysis**
 
