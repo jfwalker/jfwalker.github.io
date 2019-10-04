@@ -12,7 +12,7 @@ I see programming as describing a wide variety of pursuits, and as such I like t
 
 [**PHylogenetic Analysis Into Lineages**](https://github.com/jfwalker/PHAIL): This is a method of pulling the multiple trees out of the data and builds off of the edge based analysis procedures.
 
-[**Branch Estimation Synthesizer**](https://github.com/jfwalker/BES)
+[**Branch Estimation Synthesizer**](https://github.com/jfwalker/BES): This is a method of putting branch lengths on that are informed by the gene trees. In short it is designed to only analyze edges that are concordant with the species tree and infer the branch lengths for the species tree using those values. The program is named after this [guy](https://en.wikipedia.org/wiki/Bes).
 
 ### Past projects
 Some examples of work where a heavy focus has been on the program are:
