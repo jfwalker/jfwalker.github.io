@@ -10,6 +10,8 @@ I see programming as describing a wide variety of pursuits, and as such I like t
 
 ### Current Projects
 
+_The following two projects are the ones I'm mainly focusing on at the moment. They've been invited for a special issue of SysBio so be on the lookout for them their._
+
 [**PHylogenetic Analysis Into Lineages**](https://github.com/jfwalker/PHAIL): This is a method of pulling the multiple trees out of the data and builds off of the edge based analysis procedures.
 
 [**Branch Estimation Synthesizer**](https://github.com/jfwalker/BES): This is a method of putting branch lengths on that are informed by the gene trees. In short it is designed to only analyze edges that are concordant with the species tree and infer the branch lengths for the species tree using those values. The program is named after this [guy](https://en.wikipedia.org/wiki/Bes).
