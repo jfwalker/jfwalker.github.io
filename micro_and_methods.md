@@ -11,4 +11,4 @@ From a background in macro-evolution something such as the bullseye pattern on f
 
 
 ![micro](https://jfwalker.github.io/Pictures/Microscopy.png)
-**Picture of cell shapes varying among species, credit to Heather Wickinson whose help has been invaluable on this**
+**Picture of cell shape and pattern variance between two species in _Hibiscus_. Credit to Heather Wickinson for the image, whose help and thoughts have been invaluable on this project.**
