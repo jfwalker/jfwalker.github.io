@@ -11,6 +11,6 @@ I recently published a piece about the prevalance of the evolutionary history of
 
 Oct 4th
 
-I'm putting together a website, as you can tell it is currently under development, more soon.
+I'm putting together a website, as you can tell it is currently under development but feel free to look around, more soon!
 
 
