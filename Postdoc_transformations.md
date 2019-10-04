@@ -10,3 +10,4 @@ This work is largely inspired to understand the potential genetic techniques dev
 
 
 ![transformed_plant](https://jfwalker.github.io/Pictures/transformedHib.png)
+**Image of a transformed _Hibiscus_**
