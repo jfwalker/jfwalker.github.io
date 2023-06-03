@@ -11,6 +11,7 @@ plugins:
 
 header_pages:
   - introduction.md
+  - people.md
   - teaching.md
   - outreach.md
   - publication.md
